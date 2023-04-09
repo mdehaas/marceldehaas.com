@@ -1,7 +1,7 @@
-languageCode = "en"
-languageName = "English"
-displayName = "EN"
-isoCode = "en"
+languageCode = "nl"
+languageName = "Nederlands"
+displayName = "NL"
+isoCode = "nl"
 weight = 1
 rtl = false
 
