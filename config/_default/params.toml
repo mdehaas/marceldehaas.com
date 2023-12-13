@@ -26,8 +26,8 @@ enableCodeCopy = false
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
-  showRecent = false
+  layout = "profile" # valid options: page, profile, custom
+  showRecent = true
   recentLimit = 5
 
 [article]
@@ -44,7 +44,7 @@ enableCodeCopy = false
   invertPagination = false
   showReadingTime = true
   showTableOfContents = false
-  showTaxonomies = false
+  showTaxonomies = true
   showWordCount = false
   showComments = false
   # sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
