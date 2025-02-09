@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/marceldehaas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://marceldehaas.com
+  * I am marceldehaas (https://keybase.io/marceldehaas) on keybase.
+  * I have a public key ASAxY7ZsJjN_mpvhMHDZnuOPTv-OBp794fRyRXiKs_A8KAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d2912a2991d5fbbfaf22863b7b3e0d150b5ca3d7ce2430d1394c19c5ff8a509f0a",
+      "host": "keybase.io",
+      "kid": "01203163b66c26337f9a9be13070d99ee38f4eff8e069efde1f47245788ab3f03c280a",
+      "uid": "0429c9a63c491d82061e36b228283b19",
+      "username": "marceldehaas"
+    },
+    "merkle_root": {
+      "ctime": 1739127690,
+      "hash": "43a08001b93326f2127a78ed0f10ec26292a59ee5369963030853b4fc11e4124b730d31eedce14a52dc2a5b639ede6b1901e9eabe8a67c929ecb66f8977af8ae",
+      "hash_meta": "8f7b0e7e2b0ebe9accbf914f24787d93878fa3e1a74673a4a7853c0bed903b0d",
+      "seqno": 26530908
+    },
+    "service": {
+      "entropy": "ENPKSQaj86pLNfgHGC+dJSR5",
+      "hostname": "marceldehaas.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.4"
+  },
+  "ctime": 1739127718,
+  "expire_in": 504576000,
+  "prev": "b21067e61074c11c6eef36643c22b2fc3d47cce56529b82ecbb08eef2088c62c",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMWO2bCYzf5qb4TBw2Z7jj07/jgae/eH0ckV4irPwPCgKp3BheWxvYWTESpcCNcQgshBn5hB0wRxu7zZkPCKy/D1HzOVlKbguy7CO7yCIxizEIGXpPjzA6qQ9iR+pVMwvwg/pN3ET2p6XX8fx4YmVfJhoAgHCo3NpZ8RAvXHkh2tD0KRB8Q7Tq46tmZCBNhr+Vh0nzMFw2bb6envL4WQHSABvVwsYO9EXMAk8aOSNezeruZOsPVxN+3JJDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID1983gnz6lU+7n1mYAUDaxB29l/NHv+M2Qjo/A6iCU8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marceldehaas
+
+==================================================================
