@@ -14,6 +14,3 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS"]
-
-[markup]
-  defaultMarkdownHandler = 'goldmark'

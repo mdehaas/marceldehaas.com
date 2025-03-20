@@ -9,7 +9,6 @@ tags = [
 categories = [
     "information",
 ]
-draft = true
 +++
 
 <!-- # Zyxel VMG4005-B50A settings for KPN Pair Bonded Vectored DSL -->
