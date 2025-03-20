@@ -28,8 +28,8 @@ author = "Marcel de Haas"
 description = "Marcel de Haas - personal website"
 keywords = "blog,consultant,personal"
 info = ["Platform Consultant", "Ydentic"]
-avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
+# avatarURL = "images/avatar.jpg"
+gravatar = "marcel@bommelhaas.nl"
 dateFormat = "January 2, 2006"
 since = 2023
 # Git Commit in Footer, uncomment the line below to enable it
