@@ -10,6 +10,4 @@ Marcel de Haas started working in IT in 2001 and is currently employed as Platfo
 
 Previously Marcel worked at ApplicationNet which was aqcuired by KPN -the largest telco in the Netherlands-. ApplicationNet was the leading MSP in the Netherlands helping develop one of the largest MSP landscapes of the world. Responsibilities included managing backend systems as the vmWare platform, server management (hardware/operating system) and technology leadership.
 
-[blaa]</posts>(ksjdksjkd)
-
-{{ ref "/posts" }}
+[Projects](/projects)
