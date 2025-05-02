@@ -181,7 +181,7 @@ url = "https://www.linkedin.com/in/marceldehaas/"
 # type = "application/rss+xml"
 
 [languages.en]
-languageName = ":uk:"
+languageName = "<img src=\"/images/united-kingdom.png\" class=\"language-flag\" />English"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -198,10 +198,18 @@ url = "about/"
 # weight = 3
 # url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+# [[languages.en.menu.main]]
+# name = "Contact me"
+# weight = 5
+# url = "contact/"
+
+[languages.nl]
+languageName = "<img src=\"/images/netherlands.png\" class=\"language-flag\" />Nederlands"
+
+[[languages.nl.menu.main]]
+name = "Over"
+weight = 1
+url = "about/"
 
 # [languages.pt-br]
 # languageName = ":brazil:"
