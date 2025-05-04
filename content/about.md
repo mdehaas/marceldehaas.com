@@ -2,7 +2,7 @@
 # title = "About"
 description = "About Marcel de Haas"
 date = "2023-04-09"
-aliases = ["contact"]
+# aliases = ["contact"]
 author = "Marcel de Haas"
 +++
 
@@ -10,5 +10,5 @@ Marcel de Haas started working in IT in 2001 and is currently employed as Platfo
 
 Previously Marcel worked at ApplicationNet which was aqcuired by KPN -the largest telco in the Netherlands-. ApplicationNet was the leading MSP in the Netherlands helping develop one of the largest MSP landscapes of the world. Responsibilities included managing backend systems as the vmWare platform, server management (hardware/operating system) and technology leadership.
 
-<a href="https://www.flaticon.com/free-icons/netherlands" title="netherlands icons">Netherlands icons created by Freepik - Flaticon</a>
-https://www.flaticon.com/packs/countrys-flags/2
+<!-- <a href="https://www.flaticon.com/free-icons/netherlands" title="netherlands icons">Netherlands icons created by Freepik - Flaticon</a> -->
+<!-- https://www.flaticon.com/packs/countrys-flags/2 -->

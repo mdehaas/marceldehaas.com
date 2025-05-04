@@ -74,8 +74,8 @@ customRemoteJS = []
 # code = "code"
 
 # If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
-# [params.cloudflare]
-# token = "token"
+[params.cloudflare]
+token = "e48ae7713ac849eb9476168af90b6ff2"
 
 # If you want to use Matomo(https://matomo.org) for analytics, add this section
 # [params.matomo]
@@ -198,10 +198,10 @@ url = "about/"
 # weight = 3
 # url = "projects/"
 
-# [[languages.en.menu.main]]
-# name = "Contact me"
-# weight = 5
-# url = "contact/"
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 5
+url = "contact/"
 
 [languages.nl]
 languageName = "<img src=\"/images/netherlands.png\" class=\"language-flag\" />Nederlands"
@@ -210,6 +210,11 @@ languageName = "<img src=\"/images/netherlands.png\" class=\"language-flag\" />N
 name = "Over"
 weight = 1
 url = "about/"
+
+[[languages.nl.menu.main]]
+name = "Contact"
+weight = 5
+url = "contact/"
 
 # [languages.pt-br]
 # languageName = ":brazil:"
