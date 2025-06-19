@@ -27,7 +27,7 @@ author = "Marcel de Haas"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Marcel de Haas - personal website"
 keywords = "blog,consultant,personal"
-info = ["Channel Solution Engineer | Ydentic powerd by AvePoint"]
+info = ["Channel Solution Engineer | Ydentic powered by AvePoint"]
 avatarURL = "images/marcel_de_haas-250x250.png"
 # gravatar = "marcel@bommelhaas.nl"
 dateFormat = "January 2, 2006"
