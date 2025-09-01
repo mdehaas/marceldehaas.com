@@ -6,7 +6,7 @@ date = "2023-04-09"
 author = "Marcel de Haas"
 # url = "/over" 
 +++
-Marcel werkt sinds 2001 in IT Managed Services. Op dit mement is hij Platform Consultant bij [Ydentic](https://ydentic.com) wat onderdeel is geworden van het [AvePoint](https://avepoint.com/) platform voor MSP's [Elements](https://www.avepoint.com/products/elements).
+Marcel werkt sinds 2001 in IT Managed Services. Op dit mement is hij Channel Solution Engineer bij [Ydentic](https://ydentic.com) wat onderdeel is geworden van het [AvePoint](https://avepoint.com/) platform voor MSP's [Elements](https://www.avepoint.com/products/elements).
 
 In deze rol helpt Marcel partners met het implementeren van de platformen bij partners met training (platform administrators, consultants en servidesk medewerkers). Daarnaast levert hij ondersteuning aan de interne ontwikkelteams.
 
