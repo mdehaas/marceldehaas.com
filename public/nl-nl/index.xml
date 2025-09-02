@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcel de Haas</title>
+    <link>http://localhost:1313/nl-nl/</link>
+    <description>Recent content on Marcel de Haas</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/nl-nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/nl-nl/about/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl-nl/about/</guid>
+      <description>&lt;p&gt;Marcel werkt sinds 2001 in IT Managed Services. Op dit mement is hij Channel Solution Engineer bij &lt;a href=&#34;https://ydentic.com&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ydentic&lt;/a&gt; wat onderdeel is geworden van het &lt;a href=&#34;https://avepoint.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AvePoint&lt;/a&gt; platform voor MSP&amp;rsquo;s &lt;a href=&#34;https://www.avepoint.com/products/elements&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elements&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In deze rol helpt Marcel partners met het implementeren van de platformen bij partners met training (platform administrators, consultants en servidesk medewerkers). Daarnaast levert hij ondersteuning aan de interne ontwikkelteams.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/nl-nl/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl-nl/contact/</guid>
+      <description>&lt;p&gt;Marcel de Haas NL&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

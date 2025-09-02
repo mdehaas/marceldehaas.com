@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcel de Haas</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Marcel de Haas</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Marcel de Haas started working in IT in 2001 and is currently employed as Channel Solution Engineer at &lt;a href=&#34;https://ydentic.com&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ydentic&lt;/a&gt; which is now part of &lt;a href=&#34;https://avepoint.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AvePoint&lt;/a&gt; product line for MSP&amp;rsquo;s called &lt;a href=&#34;https://www.avepoint.com/products/elements&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elements&lt;/a&gt;. Key parts of this role are assisting with implementation, training partners and keyusers and providing support for partners and the in-house development team.&lt;/p&gt;&#xA;&lt;p&gt;Marcel has had 14 years of experience within the leading MSP of the Netherlands where standardization and autmation were at the core of the DNA. Being involved with the technical direction of the platform and strong focus on security has formed Marcel to stay critical on technical proposals from customers and making the functional questions into a solution that was in line with the constraints of the MSP values.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Marcel de Haas EN&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
