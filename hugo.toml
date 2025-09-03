@@ -1,8 +1,8 @@
 baseURL = "https://marceldehaas.com"
 title = "Marcel de Haas"
 theme = "hugo-coder"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+languageCode = "nl-nl"
+defaultContentLanguage = "nl-nl"
 enableEmoji = true
 
 [pagination]
@@ -22,7 +22,7 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "John Doe"
+author = "Marcel de Haas"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Marcel de Haas's personal website"
 keywords = "consultant,channel,solution,engineer,user,management,avepoint,ydentic,elements,baselines,endpoint,workspace"
@@ -179,30 +179,40 @@ url = "https://www.linkedin.com/in/marceldehaas/"
 # rel = "alternate"
 # type = "application/rss+xml"
 
-[languages.en-us]
-languageName = "<img src=\"/images/united-states.png\" class=\"language-flag\" />English"
-# languageName = "English"
+# [languages.en-us]
+# languageName = "<img src=\"/images/united-states.png\" class=\"language-flag\" />English"
+# # languageName = "English"
 
-[[languages.en-us.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+# [[languages.en-us.menu.main]]
+# name = "About"
+# weight = 1
+# url = "about/"
 
-[[languages.en-us.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+# [[languages.en-us.menu.main]]
+# name = "Blog"
+# weight = 2
+# url = "posts/"
 
-[[languages.en-us.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+# [[languages.en-us.menu.main]]
+# name = "Projects"
+# weight = 3
+# url = "projects/"
 
-[[languages.en-us.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+# [[languages.en-us.menu.main]]
+# name = "Contact"
+# weight = 5
+# url = "contact/"
 
-[languages.nl-nl]
-languageName = "<img src=\"/images/netherlands.png\" class=\"language-flag\" />Nederlands"
-# languageName = "Nederlands"
+# [languages.nl-nl]
+# languageName = "<img src=\"/images/netherlands.png\" class=\"language-flag\" />Nederlands"
+# # languageName = "Nederlands"
+
+# [[languages.nl-nl.menu.main]]
+# name = "Over"
+# weight = 1
+# url = "about/"
+
+# [[languages.nl-nl.menu.main]]
+# name = "Contact"
+# weight = 5
+# url = "contact/"
