@@ -24,9 +24,9 @@ unsafe = true
 [params]
 author = "Marcel de Haas"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Marcel de Haas's personal website"
-keywords = "consultant,channel,solution,engineer,user,management,avepoint,ydentic,elements,baselines,endpoint,workspace"
-info = ["Channel Solution Engineer | Ydentic powered by AvePoint"]
+description = "Marcel de Haas's website"
+keywords = "principal,consultant,channel,solution,engineer,user,device,azure,management,avepoint,ydentic,elements,baselines,endpoint,workspace,hr,automation"
+info = ["Principal Consultant | Ydentic powered by AvePoint"]
 avatarURL = "images/marceldehaas.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "2 January 2006"

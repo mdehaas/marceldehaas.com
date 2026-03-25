@@ -8,13 +8,10 @@ author = "Marcel de Haas"
 [sitemap]
   changeFreq = 'monthly'
 +++
-<!--Marcel werkt sinds 2001 in IT Managed Services. Op dit mement is hij Channel Solution Engineer bij [Ydentic](https://ydentic.com) wat onderdeel is geworden van het [AvePoint](https://avepoint.com/) platform voor MSP's [Elements](https://www.avepoint.com/products/elements).
-
-In deze rol helpt Marcel partners met het implementeren van de platformen bij partners met training (platform administrators, consultants en servidesk medewerkers). Daarnaast levert hij ondersteuning aan de interne ontwikkelteams.-->
 
 ## Mijn rol bij Ydentic powered by AvePoint
 
-Als Channel Solution Engineer ondersteun ik partners bij het implementeren van [Ydentic](https://ydentic.com) en het optimaal benutten van de mogelijkheden. Mijn doel is om partners meer tijd te geven voor hun eigen complexe vraagstukken door de basisprocessen strak en efficiënt in te richten. Daarbij help ik ook bij het realiseren van HR-koppelingen en werk ik aan de onboarding van partners binnen het [AvePoint](https://avepoint.com/) [Elements](https://www.avepoint.com/products/elements)-platform, zodat zij dit slimmer en effectiever kunnen inzetten.
+Als Principal Consultant ondersteun ik partners bij het implementeren van [Ydentic](https://ydentic.com) en het optimaal benutten van de mogelijkheden. Mijn doel is om partners meer tijd te geven voor hun eigen complexe vraagstukken door de basisprocessen strak en efficiënt in te richten. Daarbij help ik ook bij het realiseren van HR-koppelingen en werk ik aan de onboarding van partners binnen het [AvePoint](https://avepoint.com/) [Elements](https://www.avepoint.com/products/elements)-platform, zodat zij dit slimmer en effectiever kunnen inzetten.
 
 ## Focus op gebruikersbeheer en baselines
 

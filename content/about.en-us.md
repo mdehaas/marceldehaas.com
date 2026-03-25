@@ -8,13 +8,9 @@ author = "Marcel de Haas"
   changeFreq = 'monthly'
 +++
 
-<!--Marcel de Haas started working in IT in 2001 and is currently employed as Channel Solution Engineer at [Ydentic](https://ydentic.com) which is now part of [AvePoint](https://avepoint.com/) product line for MSP's called [Elements](https://www.avepoint.com/products/elements). Key parts of this role are assisting with implementation, training partners and keyusers and providing support for partners and the in-house development team.
-
-Marcel has had 14 years of experience within the leading MSP of the Netherlands where standardization and autmation were at the core of the DNA. Being involved with the technical direction of the platform and strong focus on security has formed Marcel to stay critical on technical proposals from customers and making the functional questions into a solution that was in line with the constraints of the MSP values.-->
-
 ## My Role at Ydentic powered by AvePoint
 
-As a Channel Solution Engineer, I support partners in implementing [Ydentic](https://ydentic.com) and unlocking its full potential. My goal is to give partners more time to focus on complex challenges by streamlining and optimizing their core processes. I also help establish HR integrations and work on onboarding partners into the [AvePoint](https://avepoint.com/) [Elements](https://www.avepoint.com/products/elements) platform, ensuring they can use it more intelligently and effectively.
+As a Principal Consultant, I support partners in implementing [Ydentic](https://ydentic.com) and unlocking its full potential. My goal is to give partners more time to focus on complex challenges by streamlining and optimizing their core processes. I also help establish HR integrations and work on onboarding partners into the [AvePoint](https://avepoint.com/) [Elements](https://www.avepoint.com/products/elements) platform, ensuring they can use it more intelligently and effectively.
 
 ## Focus on User Management and Baselines
 
