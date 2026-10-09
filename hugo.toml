@@ -103,9 +103,9 @@ token = "e48ae7713ac849eb9476168af90b6ff2"
 # code = "ABCDE"
 
 # If you want to use Umami(https://umami.is) for analytics, add this section
-# [params.umami]
-# siteID = "ABCDE"
-# scriptURL = "analytics.REGION.umami.is/SCRIPTNAME.js"
+[params.umami]
+siteID = "2fea7134-93d5-43c8-9680-64c8f385db43"
+scriptURL = "https://analytics.bmmlhs.net/script.js"
 
 # If you want to use One Dollars Stats(https://onedollarstats.com/analytics) for analytics, add this section
 # [params.onedollarstats]
@@ -188,10 +188,10 @@ name = "About"
 weight = 1
 url = "about/"
 
-# [[languages.en-us.menu.main]]
-# name = "Blog"
-# weight = 2
-# url = "posts/"
+[[languages.en-us.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
 
 # [[languages.en-us.menu.main]]
 # name = "Projects"
@@ -211,6 +211,11 @@ languageName = "<img src=\"/images/netherlands.png\" class=\"language-flag\" />N
 name = "Over"
 weight = 1
 url = "about/"
+
+[[languages.nl-nl.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
 
 # [[languages.nl-nl.menu.main]]
 # name = "Contact"
