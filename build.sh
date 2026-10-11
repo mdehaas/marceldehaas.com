@@ -57,11 +57,11 @@ main() {
     export PATH="${HOME}/.local/go/bin:${PATH}"
   fi
 
-  # Install Hugo
-  echo "Installing Hugo ${HUGO_VERSION}..."
-  curl -sfL --output-dir "${build_temp_dir}" -O "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz"
+  # Install Hugo (extended edition: the hugo-coder theme compiles SCSS with LibSass)
+  echo "Installing Hugo ${HUGO_VERSION} extended..."
+  curl -sfL --output-dir "${build_temp_dir}" -O "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
   mkdir -p "${HOME}/.local/hugo"
-  tar -C "${HOME}/.local/hugo" -xf "${build_temp_dir}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz"
+  tar -C "${HOME}/.local/hugo" -xf "${build_temp_dir}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
   export PATH="${HOME}/.local/hugo:${PATH}"
 
   # Install Node.js
